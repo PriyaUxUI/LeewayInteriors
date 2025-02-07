@@ -1,0 +1,13 @@
+[2023-4-28 13:27:09] layer "+ + + + +": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-28 13:27:09] layer "Right arrow.png": Duplicate path: Right arrow.png
+[2023-4-28 13:27:09] layer "Right arrow.png": Duplicate path: Right arrow.png
+[2023-4-28 13:27:09] layer "trend read.png": Duplicate path: trend read.png
+[2023-4-28 13:27:09] layer "trend read.png": Duplicate path: trend read.png
+[2023-4-28 13:27:09] layer "+": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-28 13:27:09] layer "+ copy": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-28 13:27:09] layer "+ copy 2": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-28 13:27:09] layer "+ copy 3": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-29 02:51:37] layer "+ copy 4": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-29 02:51:37] layer "+ copy 5": Expected Either a default asset specification or a layer asset specification but "+" found.
+[2023-4-28 13:27:09] layer "care@leeway.com": Unsupported extension: com
+[2023-4-28 13:27:09] layer "_________.com All rights reserved": Expected end of input but "A" found.
